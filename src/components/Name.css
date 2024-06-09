@@ -1,7 +1,11 @@
 alpha {
-    position:fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     top: 0;
-    width:50%;
+    width:30%;
     font-size: 16px;
     background-color: #09275a;
     color: rgb(199, 199, 255);

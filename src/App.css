@@ -3,9 +3,9 @@
   text-align: center;
 }
 .alpha1 {
-  padding: 0rem;
-  text-align: center;
+  justify-content: center;
 }
+
 /*
 .App-logo {
   height: 10vmin;
