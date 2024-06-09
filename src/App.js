@@ -1,11 +1,15 @@
-import Name from './components/Name';
+import Name from "./components/Name";
 function App() {
-  return <div><Name></Name></div>;
+  return (
+    <div>
+      <alpha1>
+        <Name></Name>
+      </alpha1>
+    </div>
+  );
 }
 
 export default App;
-
-
 
 /*
 import logo from './logo.svg';

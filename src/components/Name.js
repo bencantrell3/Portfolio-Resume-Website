@@ -1,11 +1,14 @@
-import './Name.css';
+import "./Name.css";
 
 function Name() {
   return (
     <>
-      <header>
+      
+      <alpha>
         <h1>Ben Cantrell</h1>
-      </header>
+        <h2>Computer Science Student</h2>
+        <p>Oklahoma State University</p>
+        </alpha>
     </>
   );
 }

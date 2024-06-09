@@ -2,7 +2,10 @@
 .App {
   text-align: center;
 }
-
+.alpha1 {
+  padding: 0rem;
+  text-align: center;
+}
 /*
 .App-logo {
   height: 10vmin;
