@@ -1,6 +1,6 @@
-import ListGroup from './components/ListGroup';
+import Name from './components/Name';
 function App() {
-  return <div><ListGroup></ListGroup></div>;
+  return <div><Name></Name></div>;
 }
 
 export default App;
