@@ -1,3 +1,13 @@
+import ListGroup from './components/ListGroup';
+function App() {
+  return <div><ListGroup></ListGroup></div>;
+}
+
+export default App;
+
+
+
+/*
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,7 +17,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Ben Cantrell
         </p>
         <a
           className="App-link"
@@ -23,3 +33,4 @@ function App() {
 }
 
 export default App;
+*/
