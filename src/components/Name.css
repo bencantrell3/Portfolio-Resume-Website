@@ -5,7 +5,7 @@ alpha {
     align-items: center;
     height: 100vh;
     top: 0;
-    width:30%;
+    width: 40%;
     font-size: 16px;
     background-color: #09275a;
     color: rgb(199, 199, 255);
@@ -15,3 +15,20 @@ alpha {
     
 }
 
+rfg1 {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex;
+    align-items: flex;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    width:60%;
+    font-size: 16px;
+    background-color: #b0bbc8;
+    color: rgb(255, 0, 0);
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

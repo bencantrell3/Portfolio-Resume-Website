@@ -1,11 +1,10 @@
+body{
+  background-color: chartreuse;
+}
 
 .App {
   text-align: center;
 }
-.alpha1 {
-  justify-content: center;
-}
-
 /*
 .App-logo {
   height: 10vmin;

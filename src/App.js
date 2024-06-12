@@ -1,13 +1,14 @@
-import Name from "./components/Name";
-import "./App.css";
+import Name from './components/Name';
+import './App.css';
+
 
 function App() {
   return (
+    <>
     <div>
-      <alpha1>
-        <Name></Name>
-      </alpha1>
+      <Name />
     </div>
+    </>
   );
 }
 

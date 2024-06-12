@@ -9,6 +9,9 @@ function Name() {
         <h2>Computer Science Student</h2>
         <p>Oklahoma State University</p>
         </alpha>
+      <rfg1>
+        TIMELINE HERE
+      </rfg1>
     </>
   );
 }
