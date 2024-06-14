@@ -1,4 +1,4 @@
-alpha {
+title {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -15,7 +15,7 @@ alpha {
     
 }
 
-rfg1 {
+rightBlock {
     position: fixed;
     display: flex;
     flex-direction: column;
@@ -31,4 +31,15 @@ rfg1 {
     padding: 1rem;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+circle{
+    width: 100vw;                /* Set the width of the circle */
+    height: 100vh;               /* Set the height of the circle */
+    background-color: blue;      /* Set the background color of the circle */
+    /*border-radius: 50%;          /* Make the element round */
+    position: absolute;          /* Use absolute positioning */
+    top: 50%;                    /* Center vertically */
+    right: 0;                    /* Position it at the right edge */
+    transform: translateY(-50%);
 }

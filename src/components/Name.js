@@ -3,15 +3,14 @@ import "./Name.css";
 function Name() {
   return (
     <>
-      
-      <alpha>
+      <title>
         <h1>Ben Cantrell</h1>
         <h2>Computer Science Student</h2>
         <p>Oklahoma State University</p>
-        </alpha>
-      <rfg1>
-        TIMELINE HERE
-      </rfg1>
+      </title>
+      <rightBox>TIMELINE HERE</rightBox>
+      
+    
     </>
   );
 }
